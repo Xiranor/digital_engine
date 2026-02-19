@@ -6,12 +6,12 @@ anchors = {}
 agents = {}
 
 #The Deck of Worlds
-regions = {}
-landmarks = {}
-namesakes = {}
-attributes = {}
-origins = {}
-advents = {}
+regions = {"deck_keys":"l1, n1, o5, a9, a1"}
+landmarks = {"deck_keys":"n1, o5, a9, a1"}
+namesakes = {"deck_keys":""}
+attributes = {"deck_keys":""}
+origins = {"deck_keys":""}
+advents = {"deck_keys":""}
 
 #Lore Master's Deck
 agents_traits = {}
